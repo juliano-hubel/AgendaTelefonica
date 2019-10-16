@@ -1,0 +1,14 @@
+d:\dev\AgendaTelefonica\AgendaTelefonica.Domain\bin\Debug\netcoreapp2.1\AgendaTelefonica.Domain.deps.json
+d:\dev\AgendaTelefonica\AgendaTelefonica.Domain\bin\Debug\netcoreapp2.1\AgendaTelefonica.Domain.runtimeconfig.json
+d:\dev\AgendaTelefonica\AgendaTelefonica.Domain\bin\Debug\netcoreapp2.1\AgendaTelefonica.Domain.runtimeconfig.dev.json
+d:\dev\AgendaTelefonica\AgendaTelefonica.Domain\bin\Debug\netcoreapp2.1\AgendaTelefonica.Domain.dll
+d:\dev\AgendaTelefonica\AgendaTelefonica.Domain\bin\Debug\netcoreapp2.1\AgendaTelefonica.Domain.pdb
+d:\dev\AgendaTelefonica\AgendaTelefonica.Domain\bin\Debug\netcoreapp2.1\AgendaTelefonica.Shared.dll
+d:\dev\AgendaTelefonica\AgendaTelefonica.Domain\bin\Debug\netcoreapp2.1\AgendaTelefonica.Shared.pdb
+d:\dev\AgendaTelefonica\AgendaTelefonica.Domain\obj\Debug\netcoreapp2.1\AgendaTelefonica.Domain.csprojAssemblyReference.cache
+d:\dev\AgendaTelefonica\AgendaTelefonica.Domain\obj\Debug\netcoreapp2.1\AgendaTelefonica.Domain.csproj.CoreCompileInputs.cache
+d:\dev\AgendaTelefonica\AgendaTelefonica.Domain\obj\Debug\netcoreapp2.1\AgendaTelefonica.Domain.AssemblyInfoInputs.cache
+d:\dev\AgendaTelefonica\AgendaTelefonica.Domain\obj\Debug\netcoreapp2.1\AgendaTelefonica.Domain.AssemblyInfo.cs
+d:\dev\AgendaTelefonica\AgendaTelefonica.Domain\obj\Debug\netcoreapp2.1\AgendaTelefonica.Domain.csproj.CopyComplete
+d:\dev\AgendaTelefonica\AgendaTelefonica.Domain\obj\Debug\netcoreapp2.1\AgendaTelefonica.Domain.dll
+d:\dev\AgendaTelefonica\AgendaTelefonica.Domain\obj\Debug\netcoreapp2.1\AgendaTelefonica.Domain.pdb

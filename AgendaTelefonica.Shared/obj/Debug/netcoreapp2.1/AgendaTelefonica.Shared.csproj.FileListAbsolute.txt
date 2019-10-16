@@ -1,0 +1,9 @@
+d:\dev\AgendaTelefonica\AgendaTelefonica.Shared\bin\Debug\netcoreapp2.1\AgendaTelefonica.Shared.deps.json
+d:\dev\AgendaTelefonica\AgendaTelefonica.Shared\bin\Debug\netcoreapp2.1\AgendaTelefonica.Shared.dll
+d:\dev\AgendaTelefonica\AgendaTelefonica.Shared\bin\Debug\netcoreapp2.1\AgendaTelefonica.Shared.pdb
+d:\dev\AgendaTelefonica\AgendaTelefonica.Shared\obj\Debug\netcoreapp2.1\AgendaTelefonica.Shared.csprojAssemblyReference.cache
+d:\dev\AgendaTelefonica\AgendaTelefonica.Shared\obj\Debug\netcoreapp2.1\AgendaTelefonica.Shared.csproj.CoreCompileInputs.cache
+d:\dev\AgendaTelefonica\AgendaTelefonica.Shared\obj\Debug\netcoreapp2.1\AgendaTelefonica.Shared.AssemblyInfoInputs.cache
+d:\dev\AgendaTelefonica\AgendaTelefonica.Shared\obj\Debug\netcoreapp2.1\AgendaTelefonica.Shared.AssemblyInfo.cs
+d:\dev\AgendaTelefonica\AgendaTelefonica.Shared\obj\Debug\netcoreapp2.1\AgendaTelefonica.Shared.dll
+d:\dev\AgendaTelefonica\AgendaTelefonica.Shared\obj\Debug\netcoreapp2.1\AgendaTelefonica.Shared.pdb
