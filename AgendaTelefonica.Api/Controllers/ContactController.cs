@@ -57,5 +57,20 @@ namespace AgendaTelefonica.Api.Controllers
         {
             return _handler.Handle(command);
         }
+
+        [HttpPut]
+        [Route("/contacts")]
+        public ICommandResult UpdateContact([FromBody] UpdateContactCommand command )
+        {
+            return _handler.Handle(command);
+        }
+
+        [HttpDelete]
+        [Route("/contacts/{id}")]
+        public ICommandResult DeleteContact(Guid Id)
+        {
+            return _handler.Handle(new DeleteContactCommand() { Id = Id });
+        }
+
     }
 }

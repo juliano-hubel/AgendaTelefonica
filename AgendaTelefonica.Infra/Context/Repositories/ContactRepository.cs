@@ -26,6 +26,11 @@ namespace AgendaTelefonica.Infra.Context.Repositories
             _context.Contacts.Add(contact);
             _context.SaveChanges();
         }
+        public void Update(Contact contact)
+        {            
+            _context.Entry(contact).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+            _context.SaveChanges();
+        }
 
         public IEnumerable<ContactQueryResult> Get()
         {
@@ -46,6 +51,18 @@ namespace AgendaTelefonica.Infra.Context.Repositories
             var contacts = _context.Contacts.Where(x => x.Name ==  search);
 
             return _mapper.Map<IEnumerable<ContactQueryResult>>(contacts);
+        }
+
+        public Contact GetById(Guid Id)
+        {
+            return _context.Contacts.FirstOrDefault(c => c.Id == Id);
+        }
+
+        public void Delete(Guid Id)
+        {
+            var contact = _context.Contacts.FirstOrDefault(c => c.Id == Id);
+            _context.Entry(contact).State = Microsoft.EntityFrameworkCore.EntityState.Deleted;
+            _context.SaveChanges();
         }
     }
 }
