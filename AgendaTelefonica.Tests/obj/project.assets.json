@@ -1,0 +1,84 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "AgendaTelefonica.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "AgendaTelefonica.Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AgendaTelefonica.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AgendaTelefonica.Domain.dll": {}
+        }
+      },
+      "AgendaTelefonica.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/AgendaTelefonica.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AgendaTelefonica.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AgendaTelefonica.Domain/1.0.0": {
+      "type": "project",
+      "path": "../AgendaTelefonica.Domain/AgendaTelefonica.Domain.csproj",
+      "msbuildProject": "../AgendaTelefonica.Domain/AgendaTelefonica.Domain.csproj"
+    },
+    "AgendaTelefonica.Shared/1.0.0": {
+      "type": "project",
+      "path": "../AgendaTelefonica.Shared/AgendaTelefonica.Shared.csproj",
+      "msbuildProject": "../AgendaTelefonica.Shared/AgendaTelefonica.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.1": [
+      "AgendaTelefonica.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Juliano Hubel\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Dev\\AgendaTelefonica\\AgendaTelefonica.Tests\\AgendaTelefonica.Tests.csproj",
+      "projectName": "AgendaTelefonica.Tests",
+      "projectPath": "D:\\Dev\\AgendaTelefonica\\AgendaTelefonica.Tests\\AgendaTelefonica.Tests.csproj",
+      "packagesPath": "C:\\Users\\Juliano Hubel\\.nuget\\packages\\",
+      "outputPath": "D:\\Dev\\AgendaTelefonica\\AgendaTelefonica.Tests\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Juliano Hubel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "projectReferences": {
+            "D:\\Dev\\AgendaTelefonica\\AgendaTelefonica.Domain\\AgendaTelefonica.Domain.csproj": {
+              "projectPath": "D:\\Dev\\AgendaTelefonica\\AgendaTelefonica.Domain\\AgendaTelefonica.Domain.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.1": {}
+    }
+  }
+}
